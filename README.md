@@ -1,2 +1,2 @@
-# rixyai
-Robotic Intelligence eXperiencing You
+# Rixy ai
+The Execution Layer for Autonomous AI Agents
